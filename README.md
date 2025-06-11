@@ -1,8 +1,5 @@
 # NIFTY50 Implied Volatility Prediction
 
-**Author:** Mimat Singh  
-**Date:** June 11, 2025
-
 ## 🧠 Problem Understanding
 
 This competition focuses on predicting missing Implied Volatility (IV) values for NIFTY50 index options. IV reflects the market’s expectation of future price movement and plays a key role in pricing options.
