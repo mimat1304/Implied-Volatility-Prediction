@@ -19,7 +19,7 @@ After analyzing IV values in the training data, many outliers were found. I filt
 
 Next, TTE was computed using the timestamp and expiry date, accounting for the Indian share market close time (3:30 PM IST).
 
-![TTE Distribution](images/tte_distribution.png)
+![TTE Distribution](images/TTE_distribution_2.png)
 
 From the figure above, TTE was divided into 6 intervals:
 
